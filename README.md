@@ -21,14 +21,30 @@
 
 
 - [x] [Small exercises to get you used to reading and writing Rust code!](https://github.com/duny31030/my-rustlings/tree/master/exercises)
-  - 要求：小练习全部通过。代码和README提交在自己在github的公开repo上。
+  - 要求：**必须完成** 。小练习全部通过。代码和README提交在自己在github的公开repo上。
   - ✅ 前段时间学习Rust的时候已经完成了全部练习，并且当时已经在自己的github上做了记录。
 - [ ] Rust Quizes
-  - 要求：小练习全部通过。
+  - 要求：小练习全部通过。（**非必须完成**）
 - [ ] exercisms.io 快速练习(88+道题目的中文详细描述)
   - http://llever.com/exercism-rust-zh/index.html
-  - 要求：大部分练习会做或能读懂。
+  - 要求：大部分练习会做或能读懂。（**非必须完成**）
   - [exercism.io官方站点](https://exercism.io/)
+
+
+
+### Step 1 自学risc-v系统结构
+
+
+
+### Step 2 基于Rust语言进行操作系统内核实验--based on qemu
+
+- [ ] lab0-0实践
+- [ ] lab0-1实践
+- [ ] lab1实验
+- [ ] lab2实验
+- [ ] lab3实验
+- [ ] lab4实验
+- [ ] lab5实验
 
 ## Daily
 
@@ -61,3 +77,11 @@
 完成部分Rust语言圣经配套练习(6. 复合类型 & 7. 流程控制 & 8. 模式匹配)。
 
 参加训练营开幕式，得知上次最后只有1/4的人完成了全程，希望自己这次能坚持到最后。
+
+
+
+### Day 4 2022/07/06
+
+简单完成[lab0-0实践](https://github.com/LearningOS/lab0-0-setup-env-run-os1-duny31030/commit/a2be2e743c76291fd09af10383081d89f1d02e2d)，实验中有较多疑惑的地方，暂时放弃了最后的日志模块。
+
+更新Blog[rCore Tutorial v3 踩坑笔记 - lab0](https://yuancode.net/post/rcore-lab0-hint/)。
